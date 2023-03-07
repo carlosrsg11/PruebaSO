@@ -17,6 +17,9 @@ public class ParcialSO {
         // TODO code application logic here
         System.out.print("hola mundo");
         System.out.print("Hola Carlos");
+        
+        
+        System.out.print("adios");
     }
     
     
